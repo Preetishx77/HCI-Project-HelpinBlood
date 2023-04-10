@@ -44,7 +44,3 @@ Blood banks today are very efﬁcient and almost well connected with all the hos
   | - Entered phone number is then searched in the backend for all the ongoing as well completed Blood requests and can be 
       easily tracked.
 ```
-
-## Built By
-
-[Dibyanshu Mohanty](https://github.com/dibyanshu-mohanty) - Full Stack Developer
