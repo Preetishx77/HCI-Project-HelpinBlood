@@ -35,7 +35,7 @@ Blood banks today are very efﬁcient and almost well connected with all the hos
   | - Choose Required Blood Type
     - Enter Phone Number
     | - Backend searches for Currently present donors within 20km and sends notifications
-| - Donor Signin
+| - Donor Signup
   | - Enter basic details
     - Upload official ID and Complete Blood Test
   | - Manually the ideantification of the user is verified along with his health
